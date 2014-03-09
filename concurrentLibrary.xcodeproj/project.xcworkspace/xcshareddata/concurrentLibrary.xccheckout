@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D8D02B7-E675-4D51-BC4F-AF64F6414AB2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>concurrentLibrary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A3C5495-1F5E-47FE-9DDA-62F21B00C50E</key>
+		<string>https://bitbucket.org/i_umit/concurrentlibrary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>concurrentLibrary.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A3C5495-1F5E-47FE-9DDA-62F21B00C50E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/i_umit/concurrentlibrary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A3C5495-1F5E-47FE-9DDA-62F21B00C50E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A3C5495-1F5E-47FE-9DDA-62F21B00C50E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>concurrentlibrary</string>
+		</dict>
+	</array>
+</dict>
+</plist>

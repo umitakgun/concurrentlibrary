@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "initFineGrainedHeapPrioQueue(fineGrainedHeap**, int):fineGrainedHeapPrioQueue.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "removeMin(fineGrainedHeap*):fineGrainedHeapPrioQueue.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(*(heap-&gt;heap))[left]">
+            </PersistentString>
+            <PersistentString
+               value = "(*(heap-&gt;heap))[parent]">
+            </PersistentString>
+            <PersistentString
+               value = "(*(heap-&gt;heap))[right]">
+            </PersistentString>
+            <PersistentString
+               value = "(*(heap-&gt;heap))[child]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "swapNodes(heapNode*, heapNode*):fineGrainedHeapPrioQueue.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;lhs">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;rhs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "add(void*, int, fineGrainedHeap*):fineGrainedHeapPrioQueue.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(*(heap-&gt;heap))[1]">
+            </PersistentString>
+            <PersistentString
+               value = "(*(heap-&gt;heap))[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
